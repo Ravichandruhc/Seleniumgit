@@ -8,6 +8,7 @@ public class testmaven
 	public void test1()
 	{
 		System.out.println("Welcome to Maven project new");
+		System.out.println("Welcome 2nd time");
 		
 	}
 
